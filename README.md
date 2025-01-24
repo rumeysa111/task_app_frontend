@@ -71,7 +71,7 @@ flutter run -d chrome
 ## Screenshots
 Here are some screenshots of the application:
 
-![Screenshot 1](assets/images/Screenshot_1737739375.png)
-![Screenshot 2](assets/images\Screenshot_1737739500.png)
-![Screenshot 3](assets/images/Screenshot_1737739570.png)
-![Screenshot 4](assets/images/Screenshot_1737739606.png)
+<img src="assets/images/Screenshot_1737739375.png" alt="Screenshot 1" width="300">
+<img src="assets/images/Screenshot_1737739500.png" alt="Screenshot 2" width="300">
+<img src="assets/images/Screenshot_1737739570.png" alt="Screenshot 3" width="300">
+<img src="assets/images/Screenshot_1737739606.png" alt="Screenshot 4" width="300">
