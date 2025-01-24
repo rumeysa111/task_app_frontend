@@ -3,7 +3,7 @@
 This project is a modern, cross-platform task management application that allows users to easily manage their tasks. It can run on both mobile (Android, iOS) and web platforms, providing support for local (SQLite) and remote (PostgreSQL) data storage.
 
 ## Features
-- Add, edit, and delete tasks.
+- Add tasks.
 - State management using Cubit.
 - Integration of local database (SQLite) and remote database (PostgreSQL).
 - API communication with a Node.js/TypeScript-based backend.
@@ -71,7 +71,7 @@ flutter run -d chrome
 ## Screenshots
 Here are some screenshots of the application:
 
-![Screenshot 1](assets\images\Screenshot_1737739375.png)
-![Screenshot 2](assets\images\Screenshot_1737739500.png)
-![Screenshot 3](assets\images\Screenshot_1737739570.png)
-![Screenshot 4](assets\images\Screenshot_1737739606.png)
+![Screenshot 1](assets/images/Screenshot_1737739375.png)
+![Screenshot 2](assets/images\Screenshot_1737739500.png)
+![Screenshot 3](assets/images/Screenshot_1737739570.png)
+![Screenshot 4](assets/images/Screenshot_1737739606.png)
