@@ -1,4 +1,4 @@
-# Task Management System
+# Task App
 
 This project is a modern, cross-platform task management application that allows users to easily manage their tasks. It can run on both mobile (Android, iOS) and web platforms, providing support for local (SQLite) and remote (PostgreSQL) data storage.
 
