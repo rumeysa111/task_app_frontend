@@ -1,13 +1,13 @@
 # Task App
 
-This project is a modern, cross-platform task management application that allows users to easily manage their tasks. It can run on both mobile (Android, iOS) and web platforms, providing support for local (SQLite) and remote (PostgreSQL) data storage.
+This project is a modern, cross-platform task management application that allows users to easily manage their tasks. It can run on  mobile  providing support for local (SQLite) and remote (PostgreSQL) data storage.
 
 ## Features
 - Add tasks.
 - State management using Cubit.
 - Integration of local database (SQLite) and remote database (PostgreSQL).
 - API communication with a Node.js/TypeScript-based backend.
-- Support for mobile (Android, iOS) and web platforms.
+- Support for mobile 
 - User-friendly and responsive interface.
 
 ## Technologies
