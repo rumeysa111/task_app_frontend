@@ -92,21 +92,7 @@ class Constants {
 Backend kodu ayrı bir GitHub reposunda bulunmaktadır:
 https://github.com/rumeysa111/task_app_backend
 
-
-1. Backend reposunu klonlayın:
-   ```sh
-   git clone https://github.com/rumeysa111/task_app_backend.git
-   cd task_app_backend
-   ```
-2. Bağımlılıkları yükleyin:
-   ```sh
-   npm install
-   ```
-3. Docker ile başlatın:
-   ```sh
-   docker-compose up --build
-   ```
-4. Backend çalışır hale geldikten sonra Flutter uygulamasıyla entegre edin.
+ Backend çalışır hale geldikten sonra Flutter uygulamasıyla entegre edin.
 
 
 ### 📌 Adımlar
