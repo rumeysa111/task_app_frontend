@@ -88,8 +88,10 @@ class Constants {
 
 ---
 
-### 📡 Backend Bağımsız Repo Yapısı
-Backend artık ayrı bir repoda bulunduğu için aşağıdaki adımlarla çalıştırabilirsiniz:
+### 📡 Backend 
+Backend kodu ayrı bir GitHub reposunda bulunmaktadır:
+https://github.com/rumeysa111/task_app_backend
+
 
 1. Backend reposunu klonlayın:
    ```sh
